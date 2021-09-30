@@ -13,4 +13,4 @@ if __name__=="__main__":
 			print("Please enter a positive number.")
 			continue 
 		break
-	print(f"Your age is {age}")
+	print(f"Your age is "_" ")
