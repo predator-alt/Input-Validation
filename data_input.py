@@ -2,7 +2,7 @@
 
 if __name__=="__main__":
 	while True:
-		print("Enter your age:", end=" ")
+		print("Enter your present age:", end=" ")
 		age = input()
 		try:
 			age = int(age)
